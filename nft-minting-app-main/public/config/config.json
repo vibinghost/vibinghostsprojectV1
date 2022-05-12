@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9A293581868C6715c92dCd8f800c2f1204a599A1",
+  "SCAN_LINK": "https://etherscan.io/address/0x9a293581868c6715c92dcd8f800c2f1204a599a1#readContract",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "VibinGhosts",
+  "SYMBOL": "VibinGhosts",
+  "MAX_SUPPLY": 888,
+  "WEI_COST": 6900000000000000,
+  "DISPLAY_COST": 0.0069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/vibinghosts",
+  "SHOW_BACKGROUND": true
+}
